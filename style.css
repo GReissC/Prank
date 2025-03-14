@@ -1,0 +1,26 @@
+html{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+#fotodinheiro{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+#redirecionar{
+    border-style: solid;
+    border-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aqua;
+}
